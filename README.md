@@ -1,8 +1,5 @@
 <h1 align="center">Cibus</h1>
 
-<p align="center">
-  Cibus is an application for planning your weekly meals. 
-  It assists you with your shopping list, estimated costs 
-  based on your country (currently available for Spain only), 
-  and macro tracking.
-</p>
+
+### Cibus is an application for planning your weekly meals. It assists you with your shopping list, estimated costs based on your country (currently available for Spain only), and macro tracking.
+
